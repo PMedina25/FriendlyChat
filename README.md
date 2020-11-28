@@ -1,3 +1,3 @@
 # FriendlyChat
 
-Chat App which use Firebase as Backend
+Android Chat App which use Firebase as Backend
